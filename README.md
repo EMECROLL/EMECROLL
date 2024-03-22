@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=php,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=python,fastapi" /><br>
     <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai" /><br>
 </div>
 
 <br/>
