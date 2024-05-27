@@ -37,7 +37,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,ts,react,angular,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=cs,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=php,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=python,fastapi" /><br>
