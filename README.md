@@ -10,7 +10,7 @@
 
     🔭 Actualmente estoy buscando oportunidades para adquirir más experiencia en el campo de la tecnología.
 
-    🌱 Actualmente estoy aprendiendo Angular y profundizando mis conocimientos en este framework.
+    🌱 Actualmente estoy aprendiendo .NET y profundizando mis conocimientos en esta tecnología.
 
     📫 Cómo contactarme: Puedes enviarme un mensaje a través de mi email o encontrarme en LinkedIn.
 
