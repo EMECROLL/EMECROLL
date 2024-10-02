@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60DAFA&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Holaaa!+%F0%9F%91%8B;Mi+nombre+es+Manuel+Pasos+Cupul;%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%92%BB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60DAFA&center=true&vCenter=true&random=false&width=500&lines=%C2%A1Holaaa!+%F0%9F%91%8B;Mi+nombre+es+Manuel+Alejandro+Pasos+Cupul;%C2%A1Bienvenido+a+mi+perfil!+%F0%9F%92%BB" />
 </h1>
+
 
 <h3 align="center">🖥 Estudiante de Ingenieria en Desarrollo y Gestión de Software 🖱</h3>
 
