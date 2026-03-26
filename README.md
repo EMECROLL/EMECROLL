@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🖥 Estudiante de Ingenieria en Desarrollo y Gestión de Software 🖱</h3>
+<h3 align="center">🖥 Ingeniero en Desarrollo y Gestión de Software 🖱</h3>
 
 <br/>
 
